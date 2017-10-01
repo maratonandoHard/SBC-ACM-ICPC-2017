@@ -1,2 +1,4 @@
-# SBC-ACM-ICPC-2017-
-Solve problems 
+# SBC-ACM-ICPC-2017
+
+
+## Grupo destinado para maratonar hard XD.
